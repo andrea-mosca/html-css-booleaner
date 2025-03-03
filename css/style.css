@@ -1,5 +1,5 @@
 body{
-    width: 80%;
+    width: 100%;
 }
 .header-copertina{
     background-image: url(../img/pattern.png);
@@ -20,3 +20,21 @@ th{
 .riga-colorata{
     background-color: aqua;
 }
+
+
+.monitor{
+   width: 25%;
+   height: 200px;
+    background-image: url(../img/monitor.jpg);
+    color: white;
+    font-size: 32px;
+    margin-top: 10px;
+}
+.graph{
+    width: 25%;
+    height: 200px;
+     background-image: url(../img/graph.jpg);
+     color: white;
+     font-size: 32px;
+     margin-top: 10px;
+ }
