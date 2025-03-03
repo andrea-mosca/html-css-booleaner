@@ -1,0 +1,12 @@
+.header-copertina{
+    background-image: url(../img/pattern.png);
+    background-color: dodgerblue;
+   
+}
+.logo{
+   margin-top: 80px;
+   height: 60px;
+}
+   address{
+    color: gray;
+   }
